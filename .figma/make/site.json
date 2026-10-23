@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to search and filter dining menus quickly, helping diners find meals that match their preferences with ease and efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
